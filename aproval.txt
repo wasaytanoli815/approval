@@ -1,4 +1,5 @@
 4-physical-8-logical-unameresultsystem=Windows-node=sona-release=10-version=10.0.19044-machine=AMD64Windows-10-10.0.19044-SP0AMD64Intel64-Family-6-Model-94-Stepping-3-GenuineIntel
 4-physical-8-logical-unameresultsystem=Windows-node=DESKTOP-4BJANTM-release=10-version=10.0.19045-machine=AMD64Windows-10-10.0.19045-SP0AMD64Intel64-Family-6-Model-58-Stepping-9-GenuineIntel
 2-physical-4-logical-unameresultsystem=Windows-node=DESKTOP-TBCFLFG-release=10-version=10.0.19045-machine=AMD64Windows-10-10.0.19045-SP0AMD64Intel64-Family-6-Model-42-Stepping-7-GenuineIntel
+2-physical-4-logical-unameresultsystem=Windows-node=DESKTOP-SOKECUC-release=10-version=10.0.19045-machine=AMD64Windows-10-10.0.19045-SP0AMD64Intel64-Family-6-Model-78-Stepping-3-GenuineIntel
       If you want to Get aprove  presh ente
