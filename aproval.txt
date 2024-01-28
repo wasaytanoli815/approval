@@ -4,3 +4,4 @@
 2-physical-4-logical-unameresultsystem=Windows-node=DESKTOP-SOKECUC-release=10-version=10.0.19045-machine=AMD64Windows-10-10.0.19045-SP0AMD64Intel64-Family-6-Model-78-Stepping-3-GenuineIntel
       If you want to Get aprove  presh ente
 2-physical-4-logical-unameresultsystem=Windows-node=DESKTOP-1E7CTME-release=10-version=10.0.19045-machine=AMD64Windows-10-10.0.19045-SP0AMD64Intel64-Family-6-Model-142-Stepping-9-GenuineIntel
+4-physical-8-logical-unameresultsystem=Windows-node=DESKTOP-BELK61M-release=10-version=10.0.19045-machine=AMD64Windows-10-10.0.19045-SP0AMD64Intel64-Family-6-Model-58-Stepping-9-GenuineIntel
